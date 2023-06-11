@@ -2,7 +2,7 @@
 
 I'm a 27-year-old currently undergoing a career transition into the field of application development. Around four months ago, I embarked on a journey to explore the world of programming, and it has been an exhilarating experience ever since.
 
-After dedicating myself to HTML and CSS during the initial weeks and months, completing courses like those provided by FreeCodeCamp, I then delved into JavaScript. From there, I made the decision to focus on mastering JavaScript, HTML, and CSS, prioritizing depth in a single language rather than a superficial understanding of multiple programming languages.
+After dedicating myself to HTML and CSS during the initial weeks and months, completing courses like those provided by FreeCodeCamp, I then delved into JavaScript. From there, I made the decision to focus on mastering JavaScript, prioritizing depth in a single language rather than a superficial understanding of multiple programming languages.
 In the coming weeks, I plan to dive into learning React and a CSS framework such as Bootstrap or Tailwind. I'm excited to undertake my first "real" projects, where I can apply my newly acquired skills. 
 
 I want to emphasize that all the public projects on my profile have been developed from scratch, without tutorials or copying any code. The process of figuring out how to implement these projects has been a personal endeavor, helping me stay motivated and passionate about programming.
