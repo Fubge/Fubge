@@ -1,3 +1,5 @@
+# Hi there! 👋
+
 ## About Me
 I'm a 27-year-old currently undergoing a career transition into the field of application development. Around four months ago, I embarked on a journey to explore the world of programming, and it has been an exhilarating experience ever since.
 
