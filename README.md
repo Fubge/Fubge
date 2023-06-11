@@ -3,7 +3,7 @@ I'm a 27-year-old currently undergoing a career transition into the field of app
 
 ## Skills and Focus
 ### HTML, CSS, and JavaScript
-After dedicating myself to **HTML and CSS** during the initial weeks and months, completing courses like those provided by **FreeCodeCamp**, I then delved into **JavaScript**. From there, I made the decision to focus on mastering JavaScript, prioritizing depth in a single language rather than a superficial understanding of multiple programming languages.
+During the first weeks, which I dedicated to dive into **HTML and CSS**, I completed different courses like those provided by **FreeCodeCamp**. I then delved into **JavaScript**. From there, I made the decision to focus on mastering JavaScript, prioritizing depth in a single language rather than a superficial understanding of multiple programming languages.
 
 ### Future Plans
 In the coming weeks, I plan to dive into learning **React** and a CSS framework such as **Bootstrap** or **Tailwind**. I'm excited to undertake my first "real" projects, where I can apply my newly acquired skills.
