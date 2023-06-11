@@ -3,16 +3,17 @@ I'm a 27-year-old currently undergoing a career transition into the field of app
 
 ## Skills and Focus
 ### HTML, CSS, and JavaScript
-During the first weeks, which I dedicated to dive into **HTML and CSS**, I completed different courses like those provided by **FreeCodeCamp**.Then  I delved into **JavaScript**. From there, I made the decision to focus on mastering **JavaScript**, prioritizing depth in a single language rather than a superficial understanding of multiple programming languages.
+During the first weeks, which I dedicated to dive into **HTML and CSS**, I completed different courses like those provided by **FreeCodeCamp**. Rather than learning a new language, I decided to advance my knowledge regarding JavaScript and dive deeper into it.
 
-### Future Plans
-In the coming weeks, I plan to dive into learning **React** and a CSS framework such as **Bootstrap** or **Tailwind**. I'm excited to undertake my first "real" projects, where I can apply my newly acquired skills.
+## Future Plans
+In the upcoming weeks, I plan to dive into learning **React** and a CSS framework such as **Bootstrap** or **Tailwind**. I'm excited to apply my newly acquired skills in my own first little projects.
 
 ## Projects and Approach
-I want to emphasize that all the public projects on my profile have been developed from scratch, without tutorials or copying any code. The process of figuring out how to implement these projects has been a personal endeavor, helping me stay motivated and passionate about programming.
+I have independently developed all the public projects on my profile from scratch on my own.
+To realize those projects is a pleasure for me and helps me stay motivated and to carry on, because it shows how useful those programming skills are in daily or work life. 
 
 ## Contact and Collaboration
-Thank you for visiting my profile, and feel free to explore my projects. I'm always open to collaboration and continuous learning. Let's code and build something amazing together! If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
+Thank you for visiting my profile and feel free to explore my projects. I'm always open to collaboration and continuous learning. Let's code and build something amazing together! If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
 
