@@ -2,7 +2,6 @@
 I'm a 27-year-old currently undergoing a career transition into the field of application development. Around four months ago, I embarked on a journey to explore the world of programming, and it has been an exhilarating experience ever since.
 
 ## Skills and Focus
-### HTML, CSS, and JavaScript
 During the first weeks, which I dedicated to dive into **HTML and CSS**, I completed different courses like those provided by **FreeCodeCamp**. Rather than learning a new language, I decided to advance my knowledge regarding JavaScript and dive deeper into it.
 
 ## Future Plans
