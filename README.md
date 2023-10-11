@@ -4,9 +4,6 @@ I'm a 27-year-old currently undergoing a career transition into the field of app
 ## Skills and Focus
 During the first weeks, which I dedicated to dive into **HTML and CSS**, I completed different courses like those provided by **FreeCodeCamp**. Rather than learning a new language, I decided to advance my knowledge regarding JavaScript and dive deeper into it.
 
-## Future Plans
-In the upcoming weeks, I plan to dive into **React** and a CSS framework such as **Bootstrap** or **Tailwind**. I'm excited to use my newly acquired abilities to develop my first, small projects.
-
 ## Projects and Approach
 I have independently developed all the public projects on my profile from scratch on my own.
 To realize those projects is a pleasure for me and helps me stay motivated and to carry on, because it shows how useful those programming skills are in daily or work life. 
